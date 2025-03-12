@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+-🍝 I'm Davide an Italian Software Engineering Student. 
+-🧠 I'm always ready to learn new things 
+-🤖 I'm Proficient in the use of Python, C and Java 
 <!--
 **davide242/davide242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
